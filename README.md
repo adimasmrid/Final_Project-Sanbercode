@@ -18,9 +18,9 @@ Columns
 5. Impor: Import of goods and services per capita
 6. Pendapatan: Net income per individual
 7. Inflasi: Measures the annual growth rate of Total GDP
-8. Harapan_hidup: The average number of years a newborn child would live if                   current mortality patterns remained the same
-9. Jumlah_fertiliti: The number of children that would be born to each woman                      if the current age fertility rate remained the same
-10. GDPperkapita: GDP per capita Calculated as Total GDP divided by total                     population. 
+8. Harapan_hidup: The average number of years a newborn child would live if current mortality patterns remained the same
+9. Jumlah_fertiliti: The number of children that would be born to each woman if the current age fertility rate remained the same
+10. GDPperkapita: GDP per capita Calculated as Total GDP divided by total population. 
 
 
 # What is in the Project
