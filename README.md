@@ -22,13 +22,18 @@ There is a strong correlation between GDPperkapita - Pendapatan, and Kematian_an
 ![Bivariate(GDPperkapita - Pendapatan)](https://github.com/adimasmrid/Sanbercode/assets/125172558/182ca9f1-2886-4f5b-bafe-fdc04361220e)
 ![Bivariate (Kematian_anak - Harapan_hidup](https://github.com/adimasmrid/Sanbercode/assets/125172558/aea91d6d-eef5-46b6-8b09-db7503d39ebf)
 
+Analysis Description
+----
+The graph above shows the correlation between two interrelated variables, GDPperkapita - Pendapatan, and Kematian_anak - Harapan_hidup.
+
+1. GDPperkapita - Pendapatan= The graph shows several points from the bottom rising upwards, which means that there is a positive correlation when the x variable is getting bigger, the y variable is also getting bigger. It can be seen that there are several countries that have high 'Pendapatan' and high 'GDPperkapita'.
+
+2. Kematian_anak - Harapan_hidup = This graph shows several points from the top going down, it means that there is a negative correlation when the x variable is getting bigger, it will be opposite to the y variable, and vice versa.It can be seen that there are several countries that have low 'Kematian_anak' and high 'Harapan_hidup.
 
 
 
-# Machine Learning Model Result 
+# Machine Learning Model Result (Clustering
 There are 3 clusters that categorize groups of countries ranging from poor countries, developing countries, and developed countries.
-
-# Clustering Result
 
 ![GDPperkapita,   Pendapatan](https://github.com/adimasmrid/Sanbercode/assets/125172558/34fb55b3-453b-4ca2-937f-3c9570a2443c)  ![Harapan_hidup,   Kematian_anak](https://github.com/adimasmrid/Sanbercode/assets/125172558/171c7585-8ef0-410d-aa51-01204edfd14e)
 
