@@ -20,6 +20,7 @@ There are 3 clusters that categorize groups of countries ranging from poor count
 
 # Clustering Result
 
+![GDPperkapita,   Pendapatan](https://github.com/adimasmrid/Sanbercode/assets/125172558/34fb55b3-453b-4ca2-937f-3c9570a2443c)
 
 
 There are several clusters that classify countries based on GDP per capita, income, life expectancy, and child mortality. 
