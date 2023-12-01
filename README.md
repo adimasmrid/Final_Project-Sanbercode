@@ -8,6 +8,7 @@ HELP International is an international humanitarian NGO committed to fighting po
 Issues :
 HELP International has managed to raise about $10 million. Now, the CEO of the NGO needs to decide how to use this money strategically and effectively. So, the CEO has to make a decision to choose the country that needs the most help.
 
+
 Columns
 --
 1. Negara : Name of the Country
