@@ -8,6 +8,18 @@ HELP International is an international humanitarian NGO committed to fighting po
 Issues :
 HELP International has managed to raise about $10 million. Now, the CEO of the NGO needs to decide how to use this money strategically and effectively. So, the CEO has to make a decision to choose the country that needs the most help.
 
+Columns
+--
+1. Negara : Name of the Country
+2. Kematian_anak: Child mortality under age 5 per 1000 births
+3. Ekspor : Export of goods and services per capita
+4. Kesehatan: Total per capita expenditure
+5. Impor: Import of goods and services per capita
+6. Pendapatan: Net income per individual
+7. Inflasi: Measures the annual growth rate of Total GDP
+8. Harapan_hidup: The average number of years a newborn child would live if                   current mortality patterns remained the same
+9. Jumlah_fertiliti: The number of children that would be born to each woman                      if the current age fertility rate remained the same
+10. GDPperkapita: GDP per capita Calculated as Total GDP divided by total                     population. 
 
 
 # What is in the Project
