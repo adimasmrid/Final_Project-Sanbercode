@@ -15,6 +15,14 @@ HELP International has managed to raise about $10 million. Now, the CEO of the N
  2. Data Visualization
  3. Feature Engineering(Clustering)
 
+# Analysis Result
+There is a strong correlation between GDPperkapita - Pendapatan, and Kematian_anak - Harapan_hidup
+![Bivariate(GDPperkapita - Pendapatan)](https://github.com/adimasmrid/Sanbercode/assets/125172558/182ca9f1-2886-4f5b-bafe-fdc04361220e)
+![Bivariate (Kematian_anak - Harapan_hidup](https://github.com/adimasmrid/Sanbercode/assets/125172558/aea91d6d-eef5-46b6-8b09-db7503d39ebf)
+
+
+
+
 # Machine Learning Model Result 
 There are 3 clusters that categorize groups of countries ranging from poor countries, developing countries, and developed countries.
 
