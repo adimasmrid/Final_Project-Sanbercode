@@ -16,7 +16,7 @@ HELP International has managed to raise about $10 million. Now, the CEO of the N
  3. Feature Engineering(Clustering)
 
 # Analysis Result
-There is a strong correlation between GDPperkapita - Pendapatan, and Kematian_anak - Harapan_hidup
+There is a strong correlation between 'GDPperkapita' - 'Pendapatan', and 'Kematian_anak - Harapan_hidup'
 
 
 ![Bivariate(GDPperkapita - Pendapatan)](https://github.com/adimasmrid/Sanbercode/assets/125172558/182ca9f1-2886-4f5b-bafe-fdc04361220e)
@@ -26,10 +26,18 @@ Analysis Description
 ----
 The graph above shows the correlation between two interrelated variables, GDPperkapita - Pendapatan, and Kematian_anak - Harapan_hidup.
 
-1. GDPperkapita - Pendapatan= The graph shows several points from the bottom rising upwards, which means that there is a positive correlation when the x variable is getting bigger, the y variable is also getting bigger. It can be seen that there are several countries that have high 'Pendapatan' and high 'GDPperkapita'.
+1. GDPperkapita - Pendapatan = The graph shows several points from the bottom rising upwards, which means that there is a positive correlation when the x variable is getting bigger, the y variable is also getting bigger. It can be seen that there are several countries that have high 'Pendapatan' and high 'GDPperkapita'.
 
 2. Kematian_anak - Harapan_hidup = This graph shows several points from the top going down, it means that there is a negative correlation when the x variable is getting bigger, it will be opposite to the y variable, and vice versa.It can be seen that there are several countries that have low 'Kematian_anak' and high 'Harapan_hidup.
 
+I have also analyzed two variables that represent social and health conditions, for the following reasons:
+1. GDPperkapita = An indicator of a country's prosperity and level of development. The greater the per capita income, the more likely it is that the country has a high level of development and average income of the population. 
+2. Kematian_anak = The child mortality rate reflects environmental health conditions that directly affect the level of child health. A high child mortality rate indicates a state of malnutrition, poor personal hygiene and hygiene.
+   
+![Crossing Bivariate (Kematian_anak - GDPperkapita)](https://github.com/adimasmrid/Sanbercode/assets/125172558/38991a98-174f-44f7-aa66-7b29c47b0c97)
+
+Analysis Description
+The graph shows that there are several countries that have high child mortality rates and low GDP per capita. This shows that prosperity and development levels are still relatively low, which is one of the factors that cause a poor hygiene and health environment, resulting in high child mortality rates.
 
 
 # Machine Learning Model Result (Clustering
