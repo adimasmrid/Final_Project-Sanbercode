@@ -47,7 +47,7 @@ Analysis Crossing Bivariate Description
 ---
 I have also analyzed two variables that represent social and health conditions, for the following reasons:
 1. GDPperkapita = An indicator of a country's prosperity and level of development. The greater the per capita income, the more likely it is that the country has a high level of development and average income of the population. 
-2. Kematian_anak = The child mortality rate reflects environmental health conditions that directly affect the level of child health. A high child mortality rate indicates a state of malnutrition, poor personal hygiene and hygiene.
+2. Kematian_anak = The child mortality rate reflects environmental health conditions that directly affect the level of child health. A high child mortality rate indicates a state of malnutrition, poor personal hygiene.
    
 ![Crossing Bivariate (Kematian_anak - GDPperkapita)](https://github.com/adimasmrid/Sanbercode/assets/125172558/38991a98-174f-44f7-aa66-7b29c47b0c97)
 
