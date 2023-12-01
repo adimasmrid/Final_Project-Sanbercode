@@ -86,3 +86,4 @@ areas that need assistance, as follows:
 3. Niger
 4. Sierra Leone
 5. Haiti
+6. Guinea - Bissau
