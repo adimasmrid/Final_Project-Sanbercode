@@ -37,9 +37,7 @@ There are several clusters that classify countries based on GDP per capita, inco
 Since Help International is an international humanitarian NGO committed to fighting poverty and providing basic facilities and assistance to people in underdeveloped countries during disasters and natural calamities, the main focus countries are in cluster 0, as follows 
 
 
-
-
-
+![df_styled](https://github.com/adimasmrid/Sanbercode/assets/125172558/2e68ff6c-a448-4587-a8dc-a7468658eb2b)
 
 
 Based on the heat map that has been presented, there is a ranking of countries of concern for
