@@ -11,7 +11,7 @@ HELP International has managed to raise about $10 million. Now, the CEO of the N
 
 
 # What is in the Project
-1. Exploratory Data Analysis
+ 1. Exploratory Data Analysis
  2. Data Visualization
  3. Feature Engineering(Clustering)
 
