@@ -40,8 +40,8 @@ There is a strong correlation between 'GDPperkapita' - 'Pendapatan', and 'Kemati
 Description
 ---
 The graph above shows the correlation between two interrelated variables, GDPperkapita - Pendapatan, and Kematian_anak - Harapan_hidup.
-1. GDPperkapita - Pendapatan = The graph shows several points from the bottom rising upwards, which means that there is a positive correlation when the x variable is getting bigger, the y variable is also getting bigger. It can be seen that there are several countries that have high 'Pendapatan' and high 'GDPperkapita'.
-2. Kematian_anak - Harapan_hidup = This graph shows several points from the top going down, it means that there is a negative correlation when the x variable is getting bigger, it will be opposite to the y variable, and vice versa.It can be seen that there are several countries that have low 'Kematian_anak' and high 'Harapan_hidup.
+1. GDPperkapita - Pendapatan = It can be seen that there are several countries that have high 'Pendapatan' and high 'GDPperkapita'.
+2. Kematian_anak - Harapan_hidup = It can be seen that there are several countries that have low 'Kematian_anak' and high 'Harapan_hidup.
 
 Analysis Crossing Bivariate Description
 ---
@@ -66,11 +66,11 @@ There are 3 clusters that categorize groups of countries ranging from poor count
 
 There are several clusters that classify countries based on GDP per capita, income, life expectancy, and child mortality. 
 
-0. Cluster 0 = From the average, it indicates a low value owned by some countries, it shows that some of these countries are underdeveloped countries in terms of underdevelopment of economic conditions, and health.
+0. Cluster 0 = It indicates a low value owned by some countries, it shows that some of these countries are underdeveloped countries in terms of underdevelopment of economic conditions, and health.
 
-1. Cluster 1 = From the average, it indicates a medium value owned by some countries, it shows that some of these countries include developing countries in terms of economic conditions, and health
+1. Cluster 1 = It indicates a medium value owned by some countries, it shows that some of these countries include developing countries in terms of economic conditions, and health
 
-2. Cluster 2 = From the average, it indicates a medium value owned by several countries, it shows that this country is a developed country in terms of economic conditions, and health.
+2. Cluster 2 = It indicates a medium value owned by several countries, it shows that this country is a developed country in terms of economic conditions, and health.
 
 
 # Conclusion
