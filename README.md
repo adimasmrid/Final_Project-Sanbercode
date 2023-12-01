@@ -1,5 +1,3 @@
-# Sanbercode
-
 # Final_Project_Sanbercode
 
 # Background
